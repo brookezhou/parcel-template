@@ -1,0 +1,28 @@
+{
+  "name": "parcel-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel": "^2.0.0-beta.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8"
+  },
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build-prod": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brookezhou/parcel-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brookezhou/parcel-template/issues"
+  },
+  "homepage": "https://github.com/brookezhou/parcel-template#readme"
+}
